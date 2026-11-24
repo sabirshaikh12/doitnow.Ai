@@ -1,0 +1,11 @@
+DOITNOW – Google AdSense activation checklist
+
+1. Publish the website on its final domain and make sure it works on mobile and desktop.
+2. Publish complete, accurate About, Contact, Privacy Policy and Terms pages.
+3. Add useful original content and test every link and tool.
+4. Apply at https://www.google.com/adsense/start/ and submit the website for review.
+5. If approved, copy the exact AdSense publisher code and ad-unit slot IDs from your AdSense account.
+6. Add the publisher script in the HTML head and place responsive ad units in the marked ad positions.
+7. Publish the ads.txt record exactly as supplied by AdSense.
+
+Do not use placeholder publisher IDs or copied ad codes. AdSense approval, ad serving and earnings are controlled by Google and are not guaranteed.

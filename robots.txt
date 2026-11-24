@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Add after you know your address:
+# Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPO/sitemap.xml
